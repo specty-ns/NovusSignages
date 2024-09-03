@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffece6; /* Light coral background */
+    color: #333333; /* Dark gray text */
+}
+
+header {
+    background-color: #003366; /* Navy blue background */
+    margin-bottom: 20px;
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff; /* White text for navigation */
+}
+
+.jumbotron {
+    background: url('../images/1.1.webp') no-repeat center center;
+    background-size: cover;
+    color: #ffffff; /* White text */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#about, #products, #gallery, #contact {
+    padding: 60px 0;
+    background-color: #ffffff; /* White background for sections */
+    color: #333333; /* Dark gray text */
+}
+
+h2 {
+    color: #ff6f61; /* Light coral for headings */
+}
+
+footer {
+    background: #003366; /* Navy blue background for footer */
+    color: #ffffff; /* White text for footer */
+}
